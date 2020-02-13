@@ -1,0 +1,48 @@
+.cloth2{
+
+	background-color:#ff5151;
+	}
+	.cloth{
+		position:relative;
+		left:600px;
+		padding:20px;
+		margin-top:0px;
+	}
+	.daviva{
+		padding:20px; 
+		text-align:center;
+		color:blue;
+	}
+	.button1{
+		position:relative;
+		left:300px;
+		top:40px;
+	}
+	.row{
+		text-align:center;
+		padding:60px;
+	}
+	h1,h4{ 
+	color:blue;
+	}
+	h1,h2,h3,h4{
+		font-family: 'Lobster', cursive;
+	}
+h1{
+font-family: 'Anton', sans-serif;}
+.images{ height:200;
+text-align:center;
+position:relative;
+left:590px;
+padding:50px;
+bottom:50px;}
+.daviva12{
+	position:relative;
+	text-align:center;
+	bottom:100px;
+	padding:10px;
+	text-align:center;
+}
+#pricing{
+	background-color:#ffa41b;
+}
